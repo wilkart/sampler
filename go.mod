@@ -10,6 +10,13 @@ require (
 	github.com/mattn/go-runewidth v0.0.4
 	github.com/mbndr/figlet4go v0.0.0-20190224160619-d6cef5b186ea
 	github.com/mitchellh/go-homedir v1.1.0
+	gopkg.in/yaml.v3 v3.0.0
+)
+
+require (
+	github.com/cjbassi/drawille-go v0.0.0-20190126131713-27dc511fe6fd // indirect
+	github.com/gopherjs/gopherjs v0.0.0-20180628210949-0892b62f0d9f // indirect
+	github.com/gopherjs/gopherwasm v0.1.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20190709130402-674ba3eaed22
+	github.com/nsf/termbox-go v0.0.0-20190121233118-02980233997d // indirect
 )
